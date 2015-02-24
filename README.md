@@ -1,0 +1,2 @@
+# BetterAdriaticaPress
+GreaseMonkey script
